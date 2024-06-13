@@ -1,0 +1,21 @@
+.cart{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px 10px;
+}
+
+.products{
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height: 40vh;
+}
+
+.product-container{
+  display: flex;
+  gap: 50px;
+  align-items: center;
+  text-align: center;
+}
