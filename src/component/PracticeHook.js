@@ -5,7 +5,7 @@ function PracticeHook() {
   const [cart, setCart] = useState({
     cartCount: 0,
     cartTotalPrice: 0,
-    cartItems: [""],
+    cartItems: [],
   });
 
   const [products, setProducts] = useState({
