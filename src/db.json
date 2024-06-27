@@ -34,6 +34,41 @@
       "category": "Furniture",
       "price": 29.99,
       "description": "Adjustable desk lamp with LED light and touch control."
+    },
+    {
+      "id": "6",
+      "title": "Gaming Laptop",
+      "category": "Electronics",
+      "price": 1499.99,
+      "description": "Powerful gaming laptop with high-end graphics and performance."
+    },
+    {
+      "id": "7",
+      "title": "Yoga Mat",
+      "category": "Fitness",
+      "price": 39.99,
+      "description": "Premium yoga mat for comfortable workouts."
+    },
+    {
+      "id": "8",
+      "title": "Coffee Maker",
+      "category": "Home Appliances",
+      "price": 79.99,
+      "description": "Automatic coffee maker with programmable features."
+    },
+    {
+      "id": "9",
+      "title": "Office Chair",
+      "category": "Furniture",
+      "price": 199.99,
+      "description": "Ergonomic office chair with lumbar support."
+    },
+    {
+      "id": "10",
+      "title": "Hiking Backpack",
+      "category": "Outdoor Gear",
+      "price": 89.99,
+      "description": "Durable hiking backpack with multiple compartments."
     }
   ],
   "reviews": [
@@ -66,6 +101,36 @@
       "rating": 4,
       "comment": "Bright light, but touch control is a bit sensitive.",
       "productId": 5
+    },
+    {
+      "id": "6",
+      "rating": 4,
+      "comment": "Great for gaming on the go!",
+      "productId": 6
+    },
+    {
+      "id": "7",
+      "rating": 5,
+      "comment": "Excellent grip and thickness for yoga practice.",
+      "productId": 7
+    },
+    {
+      "id": "8",
+      "rating": 4,
+      "comment": "Easy to use and clean.",
+      "productId": 8
+    },
+    {
+      "id": "9",
+      "rating": 5,
+      "comment": "Very comfortable and supportive.",
+      "productId": 9
+    },
+    {
+      "id": "10",
+      "rating": 4,
+      "comment": "Spacious and well-designed for hiking needs.",
+      "productId": 10
     }
   ]
 }

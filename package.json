@@ -21,7 +21,7 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "serve-json": "json-server --watch db.json"
+    "serve-json": "json-server --watch src/db.json --port 3000"
   },
   "eslintConfig": {
     "extends": [
