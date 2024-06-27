@@ -1,0 +1,71 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Wireless Headphones",
+      "category": "Electronics",
+      "price": 99.99,
+      "description": "High-quality wireless headphones with noise cancellation."
+    },
+    {
+      "id": "2",
+      "title": "Running Shoes",
+      "category": "Sportswear",
+      "price": 79.99,
+      "description": "Comfortable and durable running shoes for all terrains."
+    },
+    {
+      "id": "3",
+      "title": "Smartwatch",
+      "category": "Electronics",
+      "price": 199.99,
+      "description": "Smartwatch with fitness tracking and heart rate monitor."
+    },
+    {
+      "id": "4",
+      "title": "Blender",
+      "category": "Home Appliances",
+      "price": 49.99,
+      "description": "High-speed blender perfect for smoothies and soups."
+    },
+    {
+      "id": "5",
+      "title": "Desk Lamp",
+      "category": "Furniture",
+      "price": 29.99,
+      "description": "Adjustable desk lamp with LED light and touch control."
+    }
+  ],
+  "reviews": [
+    {
+      "id": "1",
+      "rating": 5,
+      "comment": "Excellent sound quality!",
+      "productId": 1
+    },
+    {
+      "id": "2",
+      "rating": 4,
+      "comment": "Very comfortable and stylish.",
+      "productId": 2
+    },
+    {
+      "id": "3",
+      "rating": 3,
+      "comment": "Good features, but battery life could be better.",
+      "productId": 3
+    },
+    {
+      "id": "4",
+      "rating": 5,
+      "comment": "Makes smoothies in seconds!",
+      "productId": 4
+    },
+    {
+      "id": "5",
+      "rating": 4,
+      "comment": "Bright light, but touch control is a bit sensitive.",
+      "productId": 5
+    }
+  ]
+}
